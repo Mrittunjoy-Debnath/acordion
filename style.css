@@ -1,0 +1,21 @@
+
+
+.amar-accordion{ 
+	width:500px;
+	margin:auto;
+}
+
+.amar-accordion h3{ 
+	background-color:orange;
+	background-image:none;
+}
+.amar-accordion div{ 
+	background-color:#000;
+	color:#FFF;
+	background-image:none;
+}
+
+h3.ui-accordion-header-active{ 
+	background-color:#ff0000;
+	color:#FFF;
+}
